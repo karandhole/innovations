@@ -1609,7 +1609,8 @@ ul {
     right: 0;
     bottom: 0;
     background-color: rgba(168, 255, 177, 0.485);
-    opacity: 0.8;
+    opacity: 0.5;
+    color: #089803b9;
     z-index: 1;
 }
 
