@@ -4,7 +4,7 @@ const SEO = ({ pageTitle }) => (
     <>
         <Head>
             <title>
-                {pageTitle && `${pageTitle} ||Kaiteki Innovations `}
+                {pageTitle && `Kaiteki Innovations `}
             </title>
             <meta httpEquiv="x-ua-compatible" content="ie=edge" />
             <meta name="description" content="Kaiteki Innovations " />
