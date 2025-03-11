@@ -1,219 +1,80 @@
 //Service One
 export const ServiceOneData = [
+
+
+   
     {
         id: 1,
         icon: "icon-university",
-        heading: "Institution Business",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/institution-business"
+        heading: "Funding Opportunities",
+        description: "Grants, investments, and funding networks to scale businesses.",
+        link: "/"
     },
     {
         id: 2,
         icon: "icon-settings",
-        heading: "Business Options",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/business-options"
+        heading: "Mentorship and Expert Guidance",
+        description: "Connect with professionals, experts, and successful entrepreneurs.",
+        link: "/"
     },
     {
         id: 3,
         icon: "icon-focus",
-        heading: "Focus Emergency",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/focus-emergency"
+        heading: "Technical and Business Support",
+        description: "Access testing, product development, and commercialization strategies.",
+        link: "/"
     },
     {
         id: 4,
         icon: "icon-university",
-        heading: "Institution Business",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/institution-business"
+        heading: " Networking and Collaboration",
+        description: "Engage in events, workshops, and industry networking opportunities.",
+        link: "/"
     },
     {
         id: 5,
         icon: "icon-settings",
-        heading: "Business Options",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/business-options"
+        heading: "Market Access and Industry Connections",
+        description: "Connect with customers, partners, and industry stakeholders.",
+        link: "/"
     },
-    {
-        id: 6,
-        icon: "icon-focus",
-        heading: "Focus Emergency",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/focus-emergency"
-    },
-    {
-        id: 7,
-        icon: "icon-university",
-        heading: "Institution Business",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/institution-business"
-    },
-    {
-        id: 8,
-        icon: "icon-settings",
-        heading: "Business Options",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/business-options"
-    },
-    {
-        id: 9,
-        icon: "icon-focus",
-        heading: "Focus Emergency",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/focus-emergency"
-    },
-    {
-        id: 10,
-        icon: "icon-university",
-        heading: "Institution Business",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/institution-business"
-    },
-    {
-        id: 11,
-        icon: "icon-settings",
-        heading: "Business Options",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/business-options"
-    },
-    {
-        id: 12,
-        icon: "icon-focus",
-        heading: "Focus Emergency",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/focus-emergency"
-    },
-    {
-        id: 13,
-        icon: "icon-university",
-        heading: "Institution Business",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/institution-business"
-    },
-    {
-        id: 14,
-        icon: "icon-settings",
-        heading: "Business Options",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/business-options"
-    },
-    {
-        id: 15,
-        icon: "icon-focus",
-        heading: "Focus Emergency",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/focus-emergency"
-    },
+    
+
 ];
 
 //Service Two
 export const ServiceTwoData = [
+
+
     {
         id: 1,
         icon: "icon-university",
-        heading: "Institution Business",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/institution-business"
+        heading: "Superior Hygiene with Water-Based Cleansing ",
+        description: "Bidets ensure better cleanliness than traditional methods using water",
+        link: "/"
     },
     {
         id: 2,
         icon: "icon-settings",
-        heading: "Business Options",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/business-options"
+        heading: "Independence Through Gentle Cleansing",
+        description: "Enhances personal hygiene and self-reliance for individuals with special needs",
+        link: "/"
     },
     {
         id: 3,
         icon: "icon-focus",
-        heading: "Focus Emergency",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/focus-emergency"
+        heading: "Smart Nozzle Technology",
+        description: "Controlled water spray provides an efficient, touch-free cleansing experience.",
+        link: "/"
     },
     {
         id: 4,
         icon: "icon-university",
-        heading: "Institution Business",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/institution-business"
+        heading: "Dignity and Inclusivity",
+        description: "Promotes hygiene, well-being, and accessibility for all users.",
+        link: "/"
     },
-    {
-        id: 5,
-        icon: "icon-settings",
-        heading: "Business Options",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/business-options"
-    },
-    {
-        id: 6,
-        icon: "icon-focus",
-        heading: "Focus Emergency",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/focus-emergency"
-    },
-    {
-        id: 7,
-        icon: "icon-university",
-        heading: "Institution Business",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/institution-business"
-    },
-    {
-        id: 8,
-        icon: "icon-settings",
-        heading: "Business Options",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/business-options"
-    },
-    {
-        id: 9,
-        icon: "icon-focus",
-        heading: "Focus Emergency",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/focus-emergency"
-    },
-    {
-        id: 10,
-        icon: "icon-university",
-        heading: "Institution Business",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/institution-business"
-    },
-    {
-        id: 11,
-        icon: "icon-settings",
-        heading: "Business Options",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/business-options"
-    },
-    {
-        id: 12,
-        icon: "icon-focus",
-        heading: "Focus Emergency",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/focus-emergency"
-    },
-    {
-        id: 13,
-        icon: "icon-university",
-        heading: "Institution Business",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/institution-business"
-    },
-    {
-        id: 14,
-        icon: "icon-settings",
-        heading: "Business Options",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/business-options"
-    },
-    {
-        id: 15,
-        icon: "icon-focus",
-        heading: "Focus Emergency",
-        description: "These cases are simple and eas hour powerof untrammelled being able to do what we like.",
-        link: "/focus-emergency"
-    },
+  
 ];
 
 //Service Three

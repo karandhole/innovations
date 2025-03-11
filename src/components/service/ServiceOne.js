@@ -45,29 +45,32 @@ const ServiceOne = () => {
         <section className="services-one">
             <div className="container">
                 <div className="section-title text-center">
-                    <h2 className="section-title__title">Our Best Service</h2>
+                    <h2 className="section-title__title">OUR SOLICITATIONS</h2>
                     <p className="section-title__text">phis are bound to ensue; and equal blame belongs to those who fail in
                         their <br /> duty through weakness of will, which is the same as through.</p>
                 </div>
                 <div className="row">
-                    <div className="col-xl-12">
-                        <div className="services-one__carousel owl-theme owl-carousel">
-                            {ServiceOneData.map((item, i) => (
-                            <div key={i} className="services-one__single">
-                                <div className="services-one__single-inner">
-                                    <div className="services-one__icon">
-                                        <span className={item.icon}></span>
-                                    </div>
-                                    <h3 className="services-one__title"><Link href={item.link}>{item.heading}</Link></h3>
-                                    <p className="services-one__text">{item.description}</p>
-                                    <div className="services-one__icon-plus">
-                                        <Link href={item.link}><i className="fa fa-plus"></i></Link>
-                                    </div>
-                                </div>
-                            </div>
-                            ))}
-                        </div>
-                    </div>
+                <div className="col-xl-12">
+  <div className="services-one__carousel owl-theme owl-carousel">
+    {ServiceOneData?.map((item) => ( // Use optional chaining
+      <div key={item.id || item.heading} className="services-one__single"> {/* Unique key */}
+        <div className="services-one__single-inner">
+          <div className="services-one__icon">
+            <span className={item.icon}></span>
+          </div>
+          <h3 className="services-one__title">
+            <Link href={item.link}>{item.heading}</Link>
+          </h3>
+          <p className="services-one__text">{item.description}</p>
+          <div className="services-one__icon-plus">
+            <Link href={item.link}><i className="fa fa-plus"></i></Link>
+          </div>
+        </div>
+      </div>
+    ))}
+  </div>
+</div>
+
                 </div>
             </div>
         </section>

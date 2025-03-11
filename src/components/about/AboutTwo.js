@@ -17,12 +17,12 @@ const AboutTwo = () => {
                         <div className="col-xl-6 col-lg-6">
                             <div className="about-two__content">
                                 <div className="section-title text-left">
-                                    <h2 className="section-title__title">Work Solutions Made by
-                                        About This Gorne Us.</h2>
-                                    <p className="section-title__text">End to ensue; and equal blame belongs to those who fail
-                                        in their duty blame to those through belongs to those through d equal blame belongs
-                                        to those who
-                                        weakness of will.</p>
+                                    <h3 className="section-title__title">Innovating for Inclusion, Empowering Every Ability.</h3>
+                                    <p className="section-title__text">Raghu D, the founder and driving force behind Kaiteki
+                                        Innovations, is no stranger to adversity. His personal
+                                        experiences with disability-related challenges shaped his
+                                        perspective and ignited a passion for creating assistive
+                                        technologies that empower users.</p>
                                 </div>
                                 <ul className="list-unstyled about-two__points">
                                     <li>

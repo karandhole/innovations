@@ -12,6 +12,8 @@ import ContactTwo from "../components/contact/ContactTwo";
 import VideoOne from "../components/video/VideoOne";
 import PricingOne from "../components/pricing/PricingOne";
 import BlogTwo from "../components/blog/BlogTwo";
+import ServiceOne from "@/components/service/ServiceOne";
+import ServiceThree from "@/components/service/ServiceThree";
 
 export default function HomeTwo() {
 	return (
@@ -21,13 +23,15 @@ export default function HomeTwo() {
       		<HeroTwo />
 			<AboutTwo />
 			<CounterOne />
+			<ServiceOne/>
 			<ServiceTwo />
+			{/* <ServiceThree/> */}
 			<ProjectOne />
 			<TeamTwo />
 			<BrandOne />
 			<ContactTwo />
 			<VideoOne />
-			<PricingOne />
+			{/* <PricingOne /> */}
 			<BlogTwo />
 			<FooterOne />
 		</>
