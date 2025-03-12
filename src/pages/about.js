@@ -21,13 +21,13 @@ export default function AboutPage() {
                 currentPage="About" 
             />
 			<AboutTwo />
-			<CounterOne />
-			<TeamOne />
+			 <CounterOne />
+			{/*<TeamOne />
 			<ServiceOne />
 			<BrandOne />
 			<ContactTwo />
 			<VideoOne />
-			<BlogThree />
+			<BlogThree /> */}
 			<FooterOne />
 		</>
 	);
