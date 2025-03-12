@@ -26,13 +26,14 @@ export default function HomeTwo() {
 			<ServiceOne/>
 			<ServiceTwo />
 			{/* <ServiceThree/> */}
-			<ProjectOne />
-			<TeamTwo />
-			<BrandOne />
-			<ContactTwo />
+			
+			{/* <TeamTwo /> */}
+			{/* <BrandOne />
+			<ContactTwo /> */}
 			<VideoOne />
+			<ProjectOne />
 			{/* <PricingOne /> */}
-			<BlogTwo />
+			{/* <BlogTwo /> */}
 			<FooterOne />
 		</>
 	);
